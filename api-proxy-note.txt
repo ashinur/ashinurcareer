@@ -1,0 +1,1 @@
+GitHub Pages is static hosting and cannot execute the Hatchable /api routes. The production form frontend should be hosted on the same backend origin, or the API must be exposed at a public HTTPS origin and EKART_API_BASE set to it. This note documents the deployment requirement.
